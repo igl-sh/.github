@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://avatars.githubusercontent.com/u/186954853?s=200&v=4" alt="Icon" width="125" height="125" style="border-radius: 24px;">
+  <img src="../assets/logo.png" alt="Icon" width="125" height="125" style="border-radius: 24px;">
   <h1>Igl (Igel)</h1>
   <p>Igl (Igel) is a lightning-fast all-in-one toolkit for JavaScript and TypeScript</p>
 </div>
