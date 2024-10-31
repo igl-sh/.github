@@ -14,7 +14,7 @@
 - **Open-source**: Igl is open-source. You can contribute to it on GitHub.
 
 ## Contributing
-Igl is open-source and we welcome contributions. If you want to contribute to Igl, please read the [contributing guidelines](CONTRIBUTING.md).
+Igl is open-source and we welcome contributions. If you want to contribute to Igl, please read the [contributing guidelines](../CONTRIBUTING.md).
 
 ## License
-Igl is licensed under the [GPL-3.0 License](LICENSE).
+Igl is licensed under the [GPL-3.0 License](../LICENSE).
