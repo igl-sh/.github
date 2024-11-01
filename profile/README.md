@@ -9,7 +9,7 @@
 - **All-in-one**: Igl is an all-in-one toolkit. It has everything you need to build a JavaScript or TypeScript project.
 - **Easy to use**: Igl is very easy to use. It has a simple and clean API.
 - **Modular**: Igl is modular. You can use only the parts you need.
-- **Type-safe**: Igl is written in TypeScript. It is type-safe and has great IntelliSense support.
+- **Type-safe**: Igl is written in Golang, which is a statically-typed language. This makes Igl type-safe.
 - **Well-documented**: Igl has a comprehensive documentation that covers everything you need to know.
 - **Open-source**: Igl is open-source. You can contribute to it on GitHub.
 
